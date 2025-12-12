@@ -4,7 +4,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="mx-auto mt-24 max-w-6xl px-4 sm:px-6 lg:px-8">
+      className="mx-auto h-screen mt-24 max-w-6xl px-4 sm:px-6 py-24 lg:px-8">
       <div className="grid gap-8 md:grid-cols-[minmax(0,1.3fr),minmax(0,1fr)] md:items-start">
         <div>
           <h2 className="text-lg font-semibold text-sky-300">About</h2>
